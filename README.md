@@ -55,7 +55,7 @@ Dentro de tu repositorio público debes incluir:
 
 ## Condiciones
 
-- Plazo: **48 horas** desde la recepción del correo. Esperamos una dedicación efectiva de 4 a 8 horas: prioriza, no es necesario explorar todo.
+- Plazo: **48 horas** desde la recepción del correo.
 - Lenguaje libre (Python recomendado). Librerías libres.
 - Reportaremos tu performance real sobre el target oculto de test; una brecha grande entre la performance que declaras y la real será parte de la conversación de evaluación.
 
